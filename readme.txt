@@ -1,2 +1,15 @@
-Git learning!
-git is very goog.
+This repository was connected to git@github.com:zzjHub520/Test.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
